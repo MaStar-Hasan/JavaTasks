@@ -22,7 +22,7 @@ public class RectangleDemo {
         int a2 = r2.calculateArea();
 
         if (a1 > a2) {
-            System.out.println("Rectangle 1 has a larger area.");
+            System.out.println("Rectaangle 1 has a larger area.");
         } else if (a2 > a1) {
             System.out.println("Rectangle 2 has a larger area.");
         } else {
