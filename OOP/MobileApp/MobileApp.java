@@ -6,7 +6,7 @@ public class MobileApp {
 
         MobileConnection.setMinBal(10.0);
 
-        MobileConnection obj1 = new MobileConnection("0771112223", "Hasan", 50.0);
+        MobileConnection obj1 = new MobileConnection("0771342223", "Hasan", 50.0);
         MobileConnection obj2 = new MobileConnection("0714445556", "Noah", 15.0);
 
         obj2.recharge(20.0);
