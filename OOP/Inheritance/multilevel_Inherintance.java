@@ -2,7 +2,7 @@ package OOP.Inheritance;
 
 class vehicle {
     vehicle() {
-        System.out.println("this is vehicle ");
+        System.out.println("This is a vehicle");
     }
 }
 
