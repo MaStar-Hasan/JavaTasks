@@ -1,7 +1,1 @@
-he;lloooo
-boys
-i don't know what to say
-boooooo
-ABC
-it's a change by mee
-From git it is
+i upload all my class works of OOP in this repo
